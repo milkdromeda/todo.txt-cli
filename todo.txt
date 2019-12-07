@@ -1,15 +1,8 @@
-Organize blank paper for class +SchoolThings
-Preview trig sub +Integration
-Trig integration +Integration
-Integration by parts +Integration
-Correct app. of der., curve sketching & sigma tests +Integration
-Gas problems +Gas
-Gas comic +Gas
-Privacy essay planning +CriminalLaw
-Study for unit 5 test +CriminalLaw
-Transistor & motor +Arduino
-Check adders & boolean truth tables +Arduino
-Respond to Allen on Narrative Project +Conchordium
-Decide whether to TER or CLN +Decisions
-DECA Provincials study plan +Plan
-Revise all commitments +Plan
+(A) Call Mom @Phone +Family
+(A) Schedule annual checkup +Health
+(B) Outline chapter 5 +Novel @Computer
+(C) Add cover sheets @Office +TPSReports
+Plan backyard herb garden @Home
+Pick up milk @GroceryStore
+Research self-publishing services +Novel @Computer
+x Download Todo.txt mobile app @Phone
