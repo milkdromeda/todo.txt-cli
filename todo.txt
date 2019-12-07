@@ -37,3 +37,4 @@ Math/physics/cs competitions schedule +Plan
 Creative writing schedule +Plan
 G1 study schedule +Plan
 Transfer Personal Things from Things to todo.txt
+Set up addon to open todo.txt in vscode
