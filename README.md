@@ -11,9 +11,6 @@ todo/
 |  └── push
 |  └── sync
 ├── todo.txt
-├── maybelater.txt
-├── charteramend.txt
-├── read.txt
 ├── done.txt
 ├── report.txt
 ├── todo.sh
